@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="wechat logo"  />
+  <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=Y13986042076&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="wechat logo"  />
 </div>
 
 ###
@@ -24,35 +24,18 @@
 
 ###
 
-<p align="left">I'm JieYu from China<br><br>- 🔭 I am a graduate student at Huazhong Agricultural University<br>- 📚 I'm currently learning machine learning</p>
+<p align="left">I'm JieYu from China<br><br>📫 How to reach me:jieyu.gm@gmail.com<br>🔭 I am a graduate student at Huazhong Agricultural University<br>📚 I'm currently learning machine learning</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<br clear="both">
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<img src="https://raw.githubusercontent.com/YuJieROOT/YuJieROOT/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuJieROOT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=YuJieROOT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://profile-counter.glitch.me/YuJieROOT/count.svg?"  />
 </div>
 
 ###
