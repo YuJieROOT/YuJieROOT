@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm JieYu from China<br><br>📫 How to reach me: jieyu.gm@gmail.com<br>🔭 I am a graduate student at Huazhong Agricultural University<br>📚 I'm currently learning machine learning</p>
+<p align="left">I'm JieYu from China<br><br>📫 How to reach me: jieyu.gm@gmail.com<br>🔭 I am a graduate student at Huazhong Agricultural University<br></p>
 
 
 ###
